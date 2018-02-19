@@ -1,0 +1,241 @@
+/**
+ * 
+ * This is grid css lib
+ * to develop rapid layouting
+ *
+ */
+
+.container_15 {
+	WIDTH: 1200px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.grid_1 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_2 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_3 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_4 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_5 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_6 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_7 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_8 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_9 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_10 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_11 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_12 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.grid_15 {
+	POSITION: relative; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px
+}
+.alpha {
+	MARGIN-LEFT: 0px
+}
+.omega {
+	MARGIN-RIGHT: 0px
+}
+.container_15 .grid_1 {
+	WIDTH: 60px
+}
+.container_15 .grid_2 {
+	WIDTH: 140px
+}
+.container_15 .grid_3 {
+	WIDTH: 220px
+}
+.container_15 .grid_4 {
+	WIDTH: 300px
+}
+.container_15 .grid_5 {
+	WIDTH: 380px
+}
+.container_15 .grid_6 {
+	WIDTH: 460px
+}
+.container_15 .grid_7 {
+	WIDTH: 540px
+}
+.container_15 .grid_8 {
+	WIDTH: 620px
+}
+.container_15 .grid_9 {
+	WIDTH: 700px
+}
+.container_15 .grid_10 {
+	WIDTH: 780px
+}
+.container_15 .grid_11 {
+	WIDTH: 860px
+}
+.container_15 .grid_12 {
+	WIDTH: 940px
+}
+.container_15 .grid_15 {
+	WIDTH: 1180px
+}
+.container_15 .prefix_1 {
+	PADDING-LEFT: 80px
+}
+.container_15 .prefix_2 {
+	PADDING-LEFT: 160px
+}
+.container_15 .prefix_3 {
+	PADDING-LEFT: 240px
+}
+.container_15 .prefix_4 {
+	PADDING-LEFT: 320px
+}
+.container_15 .prefix_5 {
+	PADDING-LEFT: 400px
+}
+.container_15 .prefix_6 {
+	PADDING-LEFT: 480px
+}
+.container_15 .prefix_7 {
+	PADDING-LEFT: 560px
+}
+.container_15 .prefix_8 {
+	PADDING-LEFT: 640px
+}
+.container_15 .prefix_9 {
+	PADDING-LEFT: 720px
+}
+.container_15 .prefix_10 {
+	PADDING-LEFT: 800px
+}
+.container_15 .prefix_11 {
+	PADDING-LEFT: 880px
+}
+.container_15 .suffix_1 {
+	PADDING-RIGHT: 80px
+}
+.container_15 .suffix_2 {
+	PADDING-RIGHT: 160px
+}
+.container_15 .suffix_3 {
+	PADDING-RIGHT: 240px
+}
+.container_15 .suffix_4 {
+	PADDING-RIGHT: 320px
+}
+.container_15 .suffix_5 {
+	PADDING-RIGHT: 400px
+}
+.container_15 .suffix_6 {
+	PADDING-RIGHT: 480px
+}
+.container_15 .suffix_7 {
+	PADDING-RIGHT: 560px
+}
+.container_15 .suffix_8 {
+	PADDING-RIGHT: 640px
+}
+.container_15 .suffix_9 {
+	PADDING-RIGHT: 720px
+}
+.container_15 .suffix_10 {
+	PADDING-RIGHT: 800px
+}
+.container_15 .suffix_11 {
+	PADDING-RIGHT: 880px
+}
+.container_15 .push_1 {
+	LEFT: 80px
+}
+.container_15 .push_2 {
+	LEFT: 160px
+}
+.container_15 .push_3 {
+	LEFT: 240px
+}
+.container_15 .push_4 {
+	LEFT: 320px
+}
+.container_15 .push_5 {
+	LEFT: 400px
+}
+.container_15 .push_6 {
+	LEFT: 480px
+}
+.container_15 .push_7 {
+	LEFT: 560px
+}
+.container_15 .push_8 {
+	LEFT: 640px
+}
+.container_15 .push_9 {
+	LEFT: 720px
+}
+.container_15 .push_10 {
+	LEFT: 800px
+}
+.container_15 .push_11 {
+	LEFT: 880px
+}
+.container_15 .pull_1 {
+	LEFT: -80px
+}
+.container_15 .pull_2 {
+	LEFT: -160px
+}
+.container_15 .pull_3 {
+	LEFT: -240px
+}
+.container_15 .pull_4 {
+	LEFT: -320px
+}
+.container_15 .pull_5 {
+	LEFT: -400px
+}
+.container_15 .pull_6 {
+	LEFT: -480px
+}
+.container_15 .pull_7 {
+	LEFT: -560px
+}
+.container_15 .pull_8 {
+	LEFT: -640px
+}
+.container_15 .pull_9 {
+	LEFT: -720px
+}
+.container_15 .pull_10 {
+	LEFT: -800px
+}
+.container_15 .pull_11 {
+	LEFT: -880px
+}
+.clear {
+	WIDTH: 0px; DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; OVERFLOW: hidden
+}
+.clearfix:after {
+	LINE-HEIGHT: 0; WIDTH: 0px; DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; FONT-SIZE: 0px; CONTENT: ' '
+}
+.clearfix {
+	DISPLAY: inline-block
+}
+* HTML .clearfix {
+	HEIGHT: 1%
+}
+.clearfix {
+	DISPLAY: block
+}
