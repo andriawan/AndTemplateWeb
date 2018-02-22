@@ -4,4 +4,4 @@
 
 ## Preview
 
-[![AndWeb Template](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
+[![AndWeb Template](https://github.com/andriawan/AndTemplateWeb/blob/gh-pages/img/demo-and-web-template.gif)](https://github.com/andriawan/AndTemplateWeb/blob/gh-pages/img/demo-and-web-template.gif)
